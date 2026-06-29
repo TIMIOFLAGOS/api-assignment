@@ -20,7 +20,7 @@ Student JSON Object (Marusoft Technologies)
   "institution": "Marusoft Technologies",
   "enrolledCourses": [
     "Full-Stack Web Development",
-    "Database Management Systems"
+    "Database Management Systems"   
   ],
   "performanceMetrics": {
     "attendancePercentage": 94.5,
@@ -28,7 +28,7 @@ Student JSON Object (Marusoft Technologies)
   }
 }
 
-3. list five real word apis you ue everyday
+3. list five real word apis you use everyday
 
 Five Real-World APIs Used Daily
 While I don't physically "use" apps like a human, the digital ecosystem relies on these five massive APIs every single day to function:
